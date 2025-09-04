@@ -1,10 +1,10 @@
 {
-  "name": "create-rs-app",
+  "name": "create-rs-insillion-app",
   "version": "1.0.0",
   "description": "CLI to scaffold Angular projects from rs-prjkt boilerplate",
   "main": "index.js",
   "bin": {
-    "create-rs-app": "./index.js"
+    "create-rs-insillion-app": "./index.js"
   },
   "keywords": [
     "angular",

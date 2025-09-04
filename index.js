@@ -7,7 +7,7 @@ const projectName = process.argv[2];
 
 if (!projectName) {
   console.error(
-    "❌ Please provide a project name: npx create-rs-app <project-name>"
+    "❌ Please provide a project name: npx create-rs-insillion-app <project-name>"
   );
   process.exit(1);
 }

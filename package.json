@@ -1,9 +1,17 @@
 {
   "name": "create-rs-app",
   "version": "1.0.0",
-  "description": "Scaffold Angular project from rs-prjkt boilerplate",
+  "description": "CLI to scaffold Angular projects from rs-prjkt boilerplate",
+  "main": "index.js",
   "bin": {
-    "create-rs-app": "index.js"
+    "create-rs-app": "./index.js"
   },
-  "dependencies": {}
+  "keywords": [
+    "angular",
+    "cli",
+    "boilerplate",
+    "scaffold"
+  ],
+  "author": "Nitin Gupta",
+  "license": "MIT"
 }

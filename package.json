@@ -1,0 +1,9 @@
+{
+  "name": "create-rs-app",
+  "version": "1.0.0",
+  "description": "Scaffold Angular project from rs-prjkt boilerplate",
+  "bin": {
+    "create-rs-app": "index.js"
+  },
+  "dependencies": {}
+}
